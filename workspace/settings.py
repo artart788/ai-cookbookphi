@@ -8,7 +8,7 @@ from phi.workspace.settings import WorkspaceSettings
 #
 ws_settings = WorkspaceSettings(
     # Workspace name: used for naming resources
-    ws_name="llm",
+    ws_name="ai-cookbook",
     # Path to the workspace root
     ws_root=Path(__file__).parent.parent.resolve(),
     # -*- Dev settings
